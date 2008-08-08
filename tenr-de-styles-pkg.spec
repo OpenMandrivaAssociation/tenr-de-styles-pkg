@@ -1,6 +1,6 @@
 Name:           tenr-de-styles-pkg
 Version:        1.1
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        A collection of styles for fluxbox
 
 Group:          Graphical desktop/Other
