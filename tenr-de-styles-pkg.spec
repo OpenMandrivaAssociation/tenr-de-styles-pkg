@@ -37,3 +37,19 @@ rm -rf $RPM_BUILD_ROOT
 %doc README NEWS License
 %dir %{_styledir}
 %{_styledir}/*
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.1-3mdv2010.0
++ Revision: 434334
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.1-2mdv2009.0
++ Revision: 269417
+- rebuild early 2009.0 package (before pixel changes)
+
+* Thu Jun 05 2008 Jérôme Soyer <saispo@mandriva.org> 1.1-1mdv2009.0
++ Revision: 215942
+- import tenr-de-styles-pkg
+
+
