@@ -5,7 +5,7 @@ Summary:        A collection of styles for fluxbox
 
 Group:          Graphical desktop/Other
 License:        Creative Commons Attribution-ShareAlike 2.5
-URL:            http://tenr.de
+URL:            https://tenr.de
 Source0:        http://tenr.de/files/%{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch:      noarch
